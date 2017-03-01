@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    padding-bottom: 10px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.list {
+    padding: 0px;
+}
+span {
+    font-weight: bold;
+}
+
+.fact {
+    font-style: italic;
+}
+
+#one {
+    width: 300px;
+    border: 1px solid grey;
+    padding: 12px 12px;
+    box-shadow: 10px 10px 10px grey;
+}
+#two {
+    border: 1px solid grey;
+    padding: 0px 10px;
+}
